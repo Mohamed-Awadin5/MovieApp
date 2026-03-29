@@ -1,4 +1,4 @@
-ShahidApp
+Movie
 
 iOS app built with Swift that displays a list of top-rated movies,The app fetches movies data from a remote API and showcases movie posters, details.
 
